@@ -13226,16 +13226,16 @@ for(s=2,r=0;r<j;++r){q=k[r]
 p=J.ap(q)
 if(s<p.gk(q))s=p.gk(q)}p=k[0]
 p.toString
-p=H.oV(p,"\xa5","\n")
+p=H.oV(p,"#","\n")
 if(j>=2){o=k[1]
 o.toString
-o=H.oV(o,"\xa5","\n")}else o=l
+o=H.oV(o,"#","\n")}else o=l
 if(j>=3){n=k[2]
 n.toString
-n=H.oV(n,"\xa5","\n")}else n=l
+n=H.oV(n,"#","\n")}else n=l
 if(j>=4){m=k[3]
 m.toString
-m=H.oV(m,"\xa5","\n")}else m=l
+m=H.oV(m,"#","\n")}else m=l
 return new T.xG(p,o,n,m,j,s)},
 a5q:function(a){var s,r,q,p,o,n
 for(s=a;r=J.ap(s).h3(s,"\u3010",0),r!==-1;){q=C.d.h3(s,"\u3011",r+1)
@@ -49998,7 +49998,7 @@ s.ah(new Z.R5(r,s,b,c))
 if(b>=1)P.j0(C.vr,t.z).aX(new Z.R6(s),t.P)},
 RX:function(){var s,r,q,p,o,n,m=this,l=null,k=m.d
 m.Q=H.a(k.f.split(""),t.s)
-for(s=m.ch,r=k.Q,q=k.z,p=0;o=m.Q,p<o.length;++p)switch(o[p]){case"\xa5":s.push(new T.c9($.h7.a,0,l,l))
+for(s=m.ch,r=k.Q,q=k.z,p=0;o=m.Q,p<o.length;++p)switch(o[p]){case"#":s.push(new T.c9($.h7.a,0,l,l))
 break
 case"\u03bb":s.push(new T.c9($.h7.a,10,l,l))
 break
