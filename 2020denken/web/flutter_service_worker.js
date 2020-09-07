@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "edebaddcd3f6186ba1577d399cbccb02",
 "/": "edebaddcd3f6186ba1577d399cbccb02",
-"main.dart.js": "cd86f582e7fbc5c495363fe42d731a4c",
+"main.dart.js": "beaab50c52eb006c32c2df81137869c7",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "a2b1f8fbcd8e6c22145c2707c893bfb7",
 "assets/NOTICES": "bf08ae13df2ad4f10e8bda0958ff287c",
 "assets/FontManifest.json": "5fc831b6b51edac411cdd7f803dc01e3",
-"assets/csv/20200906.csv": "d0f7cd32a4adba2912f6d586f7c09bb5",
+"assets/csv/20200906.csv": "2593740dbc336258c2f0bc63909b8131",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/font/hiragino_kakugo_w8.ttc": "172834353faac408e42f463f684de8e3",
 "assets/font/hiraginoProN_w4.ttc": "20b37f7ee46693473e239c44888f26f6",
