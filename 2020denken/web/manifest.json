@@ -1,6 +1,6 @@
 {
-    "name": "template_app",
-    "short_name": "template_app",
+    "name": "denken3_houki_anki",
+    "short_name": "denken3_houki_anki",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
